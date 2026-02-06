@@ -15,7 +15,6 @@ A comprehensive, automated dashboard for Google Summer of Code students to showc
 - **📅 Weekly Updates Timeline**: Track your weekly progress throughout the program
 - **🏆 Milestones & Achievements**: Highlight your accomplishments and key milestones
 - **🚀 One-Click Setup**: Simply fork this repository and update the config—GitHub Actions handles the rest!
-- **📱 Responsive Design**: Beautiful UI that works on all devices
 - **🔄 Auto-Updates**: Dashboard updates automatically via scheduled GitHub Actions
 
 ## 🚀 Quick Start (3 Steps!)
