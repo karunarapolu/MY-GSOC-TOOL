@@ -1,12 +1,12 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Rapolu Karuna",
     "bio": "Google Summer of Code Contributor",
     "avatar": "https://github.com/YOUR-USERNAME.png",
-    "github": "https://github.com/YOUR-USERNAME",
-    "email": "your.email@example.com",
+    "github": "https://github.com/karunarapolu",
+    "email": "karunarapolu430@gmail.com",
     "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/YOUR-PROFILE"
+    "linkedin": "https://linkedin.com/in/karuna-rapolu"
   },
   "project": {
     "title": "Your GSoC Project Title",
