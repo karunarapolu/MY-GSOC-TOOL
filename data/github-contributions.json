@@ -1,9 +1,9 @@
 {
   "stats": {
     "commits": 0,
-    "pullRequests": 1,
+    "pullRequests": 0,
     "issues": 0,
-    "reviews": 2
+    "reviews": 1
   },
   "contributions": [
     {
@@ -74,19 +74,7 @@
       "description": "Pull request review",
       "date": "2026-03-25",
       "type": "review"
-    },
-    {
-      "title": "Reviewed PR: undefined",
-      "description": "Pull request review",
-      "date": "2026-03-24",
-      "type": "review"
-    },
-    {
-      "title": "merged PR: undefined",
-      "description": "Pull request",
-      "date": "2026-03-24",
-      "type": "pull_request"
     }
   ],
-  "lastUpdated": "2026-04-23T02:47:45.499Z"
+  "lastUpdated": "2026-04-24T02:48:53.359Z"
 }
