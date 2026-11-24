@@ -21,6 +21,13 @@
       "type": "commit"
     },
     {
+      "title": "Pushed commits to karunarapolu/portfolio",
+      "description": "Code changes",
+      "date": "2026-11-22",
+      "url": "https://github.com/karunarapolu/portfolio",
+      "type": "commit"
+    },
+    {
       "title": "Pushed commits to karunarapolu/sol",
       "description": "Code changes",
       "date": "2026-11-12",
@@ -138,14 +145,7 @@
       "date": "2026-11-02",
       "url": "https://github.com/karunarapolu/sol",
       "type": "commit"
-    },
-    {
-      "title": "Pushed commits to keerthi-manasvi/Talkbits",
-      "description": "Code changes",
-      "date": "2026-10-24",
-      "url": "https://github.com/keerthi-manasvi/Talkbits",
-      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-11-23T06:16:09.728Z"
+  "lastUpdated": "2026-11-24T08:51:56.664Z"
 }
